@@ -29,3 +29,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagargupta13&" alt="sagargupta13" /></p>
 
+
+## 📈 GitHub Stats 
+
+
+<!-- platane/snk works, it just puts it on a new branch -->
+
+ ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+
+
+
